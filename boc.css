@@ -1,0 +1,363 @@
+.bg{
+            
+    background-image: url(5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:800px 1000px;
+    height: 1000px;
+    width: 100%;
+   
+    
+    margin-top:10%;
+   
+
+/* Full height */
+    
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+ 
+  
+
+}
+
+.content{
+    background-image: url(3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+   
+    
+    margin-top: 50%;
+   
+
+/* Full height */
+    
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+ 
+  
+    
+}
+.content1{
+    text-align: center;
+    padding: 20px;
+    background-color: crimson;
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.conn{
+
+    text-align: center;
+    padding: 20px;
+    background-image: url(2.jpg);
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+
+}
+
+
+.content2{
+    text-align: center;
+    padding: 20px;
+    background-image: url(IMG-20210712-WA0003.jpg);
+    margin-top: 30%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 800px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content3{
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    margin-top: 35%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 2%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content4{
+    text-align: center;
+    padding: 20px;
+    background-color: crimson;
+
+    margin-top: 100px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 300px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content5{
+    text-align: center;
+    padding: 20px;
+    background-image: url(moment_0e5be51a4ccf48508af57d0728b32016_1611504541381.jpg);
+    margin-top: 100px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 5%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content6{
+    text-align: center;
+    padding: 20px;
+    background-image: url(moment_60207daa2cb04128b2a9e9d7d95a9b1b_1612701375242.jpg);
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+    margin-top: 20%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height:500px;
+    width: 600px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content7{
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content8{
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+    margin-top: 20%;
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+ 
+    
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 100%;
+    display: block;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content9{
+    text-align: center;
+    padding: 20px;
+    background-image: url(2.jpg);
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content10{
+    text-align: center;
+    padding: 20px;
+   background-image: url(3.jpg);
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+    
+    height: fit-content;
+    border-radius: 15px;
+    height: 500px;
+    width: 500px;
+    display: inline-flex;
+    
+    justify-content: center;box-shadow: 10px 10px 80px 0px black;
+}
+
+.content11{
+    background-image: url(2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+   
+    
+    margin-top: 50%;
+   
+
+/* Full height */
+    
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.bg1{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(25, 23, 27);
+    margin-top: 100px;
+    height: fit-content;
+    border-radius: 15px;
+width: 100%;
+    display: inline-flex;
+    margin-left: ;
+    box-shadow: 10px 10px 80px 0px black;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    padding: 20%;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 30px 3px 3px #ababab;
+}
+
+.nav{
+    color: black;
+    font-size: 1.9rem;
+    margin: 15px;
+    text-decoration: none;
+}
+a{
+    color: rgb(134, 62, 62);
+    text-decoration: none;
+    padding: 8px;
+
+}
+a:hover{
+    color: rgb(134, 62, 62);
+    text-decoration: none;
+    padding: 8px;
+    background-color: chartreuse;
+    transition: 0.9s;
+    text-decoration: transparent;
+    font-size: 2rem;
+
+}
+
+h2{
+    font-size: 3em;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 30px 30px 30px #0f0c0c;
+}
+
+h3{
+    font-size: 3em;
+    font-family: "Sofia", sans-serif;
+    text-shadow: 30px 30px 30px #0a0808;
+}
+img{
+    
+    border-radius: 25px;
+    
+    box-shadow: 10px 10px 80px 0px black;
+    border-color:10px black;
+}
+
+.con{
+    font-size: 2rem;
+    padding: 20px;
+}
+
+@media only screen and (max-device-width: 1366px) {
+.parallax {
+background-attachment: scroll;
+}
+}
+
+@media screen and (max-width: 1000px) {
+.content,.content1,.content2,.content3,.content4,.content5,.content6,.content7,.content8,.content9,.content10,.content11,.conn,.con,.bg1,.bg,.content {
+width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+}
+}
